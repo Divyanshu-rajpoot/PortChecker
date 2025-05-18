@@ -1,6 +1,7 @@
 # 🔧 Port Checker CLI Tool
 
-A simple Java-based command-line tool to check and kill processes running on specific ports. Useful for developers who frequently run into port conflicts while working on web servers, microservices, or development environments.
+A simple Java-based command-line tool to check and kill processes running on specific ports. 
+Useful for developers who frequently run into port conflicts while working on web servers, microservices, or development environments.
 
 ---
 
@@ -17,9 +18,7 @@ A simple Java-based command-line tool to check and kill processes running on spe
 
 ## 📦 Download
 
-👉 Go to the [Releases](https://github.com/your-username/PortChecker/releases) section and download the latest `port-checker.jar` file.
-
-> 💡 If you prefer to build from source, see [Building From Source](#hammer-building-from-source).
+👉 Go to the [Releases](https://github.com/Divyanshu-rajpoot/PortChecker/releases/) section and download the latest `port-checker.jar` file.
 
 ---
 
@@ -29,9 +28,20 @@ A simple Java-based command-line tool to check and kill processes running on spe
 
 ```bash
 java -jar port-checker.jar --check 8080
+```
 
+### ✅ Kill a port based on the number
+
+```
 java -jar port-checker.jar --kill 3000
+```
 
+### ✅ List all the ports that are Listening or Up
+
+```
 java -jar port-checker.jar --list
-
+```
+### ✅ Get all the help
+```
 java -jar port-checker.jar --help
+```
