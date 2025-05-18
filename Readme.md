@@ -10,9 +10,8 @@ Useful for developers who frequently run into port conflicts while working on we
 - 🔍 **Check** if a specific port is in use
 - ✅ **List** all ports currently in use
 - 💀 **Kill** processes occupying a specific port (Windows, macOS, Linux)
-- 🎨 Clean and colorful terminal output
 - 🧪 Lightweight, no external dependencies
-- 🪄 Cross-platform support
+- 🪄 Cross-platform support (Linux / MacOS / Windows)
 
 ---
 
