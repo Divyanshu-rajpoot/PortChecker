@@ -17,7 +17,7 @@ A simple Java-based command-line tool to check and kill processes running on spe
 
 ## 📦 Download
 
-👉 Go to the [Releases](https://github.com/your-username/port-checker-cli/releases) section and download the latest `port-checker.jar` file.
+👉 Go to the [Releases](https://github.com/your-username/PortChecker/releases) section and download the latest `port-checker.jar` file.
 
 > 💡 If you prefer to build from source, see [Building From Source](#hammer-building-from-source).
 
